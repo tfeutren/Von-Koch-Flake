@@ -1,5 +1,5 @@
 # Von-Koch-Flake :snowflake:
-How to create the Von Koch fluffy with python ?
+How to create the Von Koch flake with python ?
 
 ## Import libraries :green_book:
 ```python
