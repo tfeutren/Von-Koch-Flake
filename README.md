@@ -98,3 +98,4 @@ flake(7)
 - Preview of the result :
 
  ![Alt text](https://raw.githubusercontent.com/tfeutren/Von-Koch-Flake/master/flake.png)
+ -You can zoom in to see beautiful geometry !
