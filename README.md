@@ -96,4 +96,4 @@ flake(7)
 ```
 - Here, **n =7 it's largely enough** but if you have a powerful computer, you can do better !
 - Preview of the result :
-![Alt text](https://raw.githubusercontent.com/tfeutren/Von-Koch-Flake/master/flake.png)
+- ![Alt text](https://raw.githubusercontent.com/tfeutren/Von-Koch-Flake/master/flake.png)
