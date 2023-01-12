@@ -17,7 +17,7 @@ import math as mt
 ![Alt text](https://raw.githubusercontent.com/tfeutren/Von-Koch-Flake/master/VonKoch.png)
 - You can do that in different way, but I choose to take two lists of position X,Y about each point.
 - For example, at the beginning, i take **X = [0,1] & Y = [0,0]** and at the second itteration, you can add 3 point between the previous two.
-- Personally, if you want to try this alone, I advise you to take a pen and leaf, and pose the problem. *Good Luck !*
+- However, if you want to try this on your own, I advise you to take a pen and a piece of paper, and state the problem. *Good Luck !*
 
 ## Main function :zap:
 - This function generate the X & Y lists.
@@ -59,7 +59,7 @@ def vonkoch(order,X=[0,1],Y=[0,0]):
 - You need to make a double loops, one for each operation to do in the order n, and an other to add points on all the segments.
 - Furthermore, you have a part of math ( *it's scary I agree* ) and other part to insert new points.
 
-## Draw one courb of Von Koch :pencil2:
+## Draw one curve of Von Koch :pencil2:
 - Just a function use for draw a part of the flake with *matplotlib*.
 ```python
 def trace(order):
