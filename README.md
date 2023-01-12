@@ -16,7 +16,7 @@ import math as mt
 - Let's see a **pretty schema** about this :
 ![Alt text](https://raw.githubusercontent.com/tfeutren/Von-Koch-Flake/master/VonKoch.png)
 - You can do that in different way, but I choose to take two lists of position X,Y about each point.
-- For example, at the beginning, i take **X = [0,1] & Y = [0,0]** and at the second itteration, you can add 3 point between the previous two.
+- For example, at the beginning, i take **X = [0,1] & Y = [0,0]** and at the second itteration, you can add 3 points between the previous two.
 - However, if you want to try this on your own, I advise you to take a pen and a piece of paper, and state the problem. *Good Luck !*
 
 ## Main function :zap:
